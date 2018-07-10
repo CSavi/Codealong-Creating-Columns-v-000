@@ -86,7 +86,11 @@ section {
 
 /*/////// SOCIAL ///////*/
 
-#social
+#social {
+  position: fixed;
+  top: 200px;
+  right: 20px;
+}
 
 /*/////// LAYOUT ///////*/
 
