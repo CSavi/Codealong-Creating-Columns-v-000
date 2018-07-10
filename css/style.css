@@ -71,9 +71,9 @@ figcaption {
   color: red;
 }
 
-/*/////// Layout ///////*/
+/*/////// LAYOUT ///////*/
 
 .wapper {
-  wideth: 960px;
+  width: 960px;
   margin: 0 auto;
 }
